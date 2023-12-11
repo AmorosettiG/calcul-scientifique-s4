@@ -1,2 +1,4 @@
-# Projet de Calcul Scientifique 
-### L2 Parcours Spécial Physique (Semestre 4)
+# Scientific Computing project
+### Second year of Bachelor
+-----------------------------
+
